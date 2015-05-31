@@ -1,0 +1,91 @@
+div{
+  background-color: rgb(134,185,2);
+  position: absolute;
+}
+
+#head{
+  width: 100px;
+  height: 50px;
+  border-top-left-radius: 120px;
+  border-top-right-radius: 120px;
+  top: 40px;
+  left: 100px;
+}
+
+#body{
+  width: 100px;
+  height: 85px;
+  margin: 10px auto;
+  top: 84px;
+  left: 100px;
+  border-bottom-left-radius: 10px;
+  border-bottom-right-radius: 10px;
+}
+
+#rAnt{
+  width: 3px;
+  height: 30px;
+  transform: rotate(-25deg);
+  border-radius: 1.5px;
+  top: 20px;
+  left: 130px;
+}
+
+#lAnt{
+  width: 3px;
+  height: 30px;
+  transform: rotate(25deg);
+  border-radius: 1.5px;
+  top: 20px;
+  left: 170px;
+}
+
+#rEye{
+  width: 10px;
+  height: 10px;
+  background-color: white;
+  top: 25px;
+  left: 20px;
+  border-radius: 5px;
+}
+
+#lEye{
+  width: 10px;
+  height: 10px;
+  background-color: white;
+  top: 25px;
+  left: 72px;
+  border-radius: 5px;
+}
+
+#rArm{
+  width: 17px;
+  height: 65px;
+  border-radius: 10px;
+  top: 100px;
+  left: 79px;
+}
+
+#lArm{
+  width: 17px;
+  height: 70px;
+  border-radius: 10px;
+  top: 100px;
+  left: 204px;
+}
+
+#rLeg{
+  width: 17px;
+  height: 70px;
+  border-radius: 10px;
+  top: 140px;
+  left: 170px;
+}
+
+#lLeg{
+  width: 17px;
+  height: 70px;
+  border-radius: 10px;
+  top: 140px;
+  left: 114px;
+}
